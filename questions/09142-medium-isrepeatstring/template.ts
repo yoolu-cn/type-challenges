@@ -1,0 +1,1 @@
+type IsRepeatString<T> = any
